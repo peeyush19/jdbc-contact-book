@@ -6,6 +6,10 @@ A console-based Contact Book application developed using **Java, JDBC, MySQL, an
 
 The JDBC Contact Book is a Java application that allows users to manage contact information using a MySQL database.
 
+## 📸 Project Screenshot
+
+![Contact Book Application](jdbc.jpeg)
+
 The project demonstrates how Java applications communicate with a relational database using **JDBC (Java Database Connectivity)**.
 
 ## ✨ Features
